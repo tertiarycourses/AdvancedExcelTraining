@@ -1,5 +1,5 @@
 # Advanced Excel Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Advanced Excel Essential Training](https://www.tertiarycourses.com.sg/microsoft-excel-essential-training-course-in-singapore.html) course. 
 
