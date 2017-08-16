@@ -6,6 +6,7 @@ These are the exercise files used for [Advanced Excel Essential Training](https:
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/microsoft-excel-essential-training-course-in-singapore.html
+https://www.tertiarycourses.com.my/microsoft-excel-essential-training-course-in-malaysia.html
 
 <p><strong>Module 1 Pivot Table</strong></p>
 <ul>
